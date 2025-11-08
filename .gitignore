@@ -1,0 +1,41 @@
+.credentials/
+serviceaccount.json
+.env
+
+# Ignore node modules
+node_modules/  
+
+# Environment files
+.env
+credentials/
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+logs/
+logs2/
+*.log
+
+# Data and models
+data/
+models/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build or distribution files
+dist/
+build/
+ AI-Ticket-Resolution/
